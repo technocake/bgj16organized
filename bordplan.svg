@@ -262,8 +262,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="1141.8513"
-     inkscape:cy="1210.1091"
+     inkscape:cx="859.71569"
+     inkscape:cy="1546.6919"
      inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -801,7 +801,7 @@
      y="0"
      width="100%"
      height="100%"
-     transform="matrix(0.79813879,0,0,0.81211994,117.18878,163.54594)" />
+     transform="matrix(0.79813879,0,0,0.81211994,155.37255,183.34493)" />
   <use
      transform="matrix(0.79813879,0,0,0.81211994,110.11771,300.72466)"
      height="100%"
@@ -906,38 +906,6 @@
      x="0"
      xlink:href="#symbol8406"
      id="use8583" />
-  <use
-     id="use8587"
-     xlink:href="#symbol8406"
-     x="0"
-     y="0"
-     width="100%"
-     height="100%"
-     transform="matrix(0,-0.79813879,0.81211994,0,429.92409,2082.6467)" />
-  <use
-     transform="matrix(0,-0.79813879,0.81211994,0,395.15454,2083.2325)"
-     height="100%"
-     width="100%"
-     y="0"
-     x="0"
-     xlink:href="#symbol8406"
-     id="use8591" />
-  <use
-     transform="matrix(0,-0.79813879,0.81211994,0,309.71594,2084.0609)"
-     height="100%"
-     width="100%"
-     y="0"
-     x="0"
-     xlink:href="#symbol8406"
-     id="use8595" />
-  <use
-     id="use8597"
-     xlink:href="#symbol8406"
-     x="0"
-     y="0"
-     width="100%"
-     height="100%"
-     transform="matrix(0,-0.79813879,0.81211994,0,274.94639,2084.6467)" />
   <use
      id="use8601"
      xlink:href="#symbol8406"
@@ -1050,4 +1018,59 @@
      x="0"
      xlink:href="#symbol8406"
      id="use8639" />
+  <path
+     style="fill:#cccccc;fill-rule:evenodd;stroke:#917c6f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 735.39105,1193.8697 128.69344,128.6934 -62.2254,62.2254 -77.07464,-77.0746 -108.18734,0 -8.48528,-0.7071 z"
+     id="path8293"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:32.60204697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1400.2072"
+     y="380.77734"
+     id="text8381"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan8383"
+       x="1400.2072"
+       y="380.77734">stage</tspan></text>
+  <path
+     style="fill:#cccccc;fill-rule:evenodd;stroke:#917c6f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1019.648,1485.1977 153.4422,153.4422 -283.54987,0 0,-159.0991 103.23759,0 14.14218,16.9706 z"
+     id="path8391"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:30.9298439px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1760.6781"
+     y="409.45959"
+     id="text8395"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan8397"
+       x="1760.6781"
+       y="409.45959"
+       style="fill:#b3b3b3;stroke:none">DJ-booth</tspan></text>
+  <rect
+     style="opacity:1;fill:#ffd42a;stroke:#ffcc00;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect8401"
+     width="22.627417"
+     height="46.669048"
+     x="568.51385"
+     y="834.65942" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:22.41463661px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="834.91223"
+     y="-573.49902"
+     id="text8405"
+     sodipodi:linespacing="125%"
+     transform="matrix(0,1,-1,0,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan8407"
+       x="834.91223"
+       y="-573.49902">psu</tspan></text>
 </svg>
