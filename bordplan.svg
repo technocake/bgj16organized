@@ -263,7 +263,7 @@
      showgrid="false"
      inkscape:zoom="0.70710678"
      inkscape:cx="859.71569"
-     inkscape:cy="1546.6919"
+     inkscape:cy="1320.4178"
      inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -866,14 +866,6 @@
      width="100%"
      height="100%"
      transform="matrix(0.56436935,-0.56436935,0.57425552,0.57425552,204.34179,1054.7466)" />
-  <use
-     transform="matrix(0.56436935,-0.56436935,0.57425552,0.57425552,277.8809,1122.6289)"
-     height="100%"
-     width="100%"
-     y="0"
-     x="0"
-     xlink:href="#symbol8406"
-     id="use8567" />
   <use
      id="use8571"
      xlink:href="#symbol8406"
