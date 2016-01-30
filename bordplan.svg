@@ -258,12 +258,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="768"
+     inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="906.25"
-     inkscape:cy="1280"
+     inkscape:cx="913.25"
+     inkscape:cy="1276"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -353,7 +353,7 @@
          y="1263.8303"
          x="944.32458"
          id="tspan4142"
-         sodipodi:role="line">25.0m</tspan></text>
+         sodipodi:role="line">30.0m</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path4144"
@@ -813,7 +813,7 @@
        y="380.77734">stage</tspan></text>
   <path
      style="fill:#cccccc;fill-rule:evenodd;stroke:#917c6f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 1019.648,1485.1977 153.4422,153.4422 -283.54987,0 0,-159.0991 103.23759,0 14.14218,16.9706 z"
+     d="m 1019.648,1485.1977 153.4422,153.4422 -283.54987,0 0,-67.0991 103.23759,-92 14.14218,16.9706 z"
      id="path8391"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccc" />
@@ -1275,4 +1275,10 @@
        height="100%"
        transform="matrix(0.48283059,0.48283059,-0.49128843,0.49128843,1220.4223,792.57345)" />
   </g>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 892,1482 c 0,0 24,24 38,46 l 14,0"
+     id="path7447"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
 </svg>
